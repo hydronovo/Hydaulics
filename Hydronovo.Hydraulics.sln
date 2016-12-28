@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hydronovo.Hydraulics.Shell", "Hydronovo.Hydraulics.Shell\Hydronovo.Hydraulics.Shell.csproj", "{CD04911F-4AC4-4B43-A05D-48CBEE5F4ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hydronovo.Hydraulics.PT.RiverNetwork", "Hydronovo.Hydraulics.RiverNetworkElements\Hydronovo.Hydraulics.PT.RiverNetwork.csproj", "{7A686299-5DCF-4D9E-8B5C-D301D9D4B96C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD04911F-4AC4-4B43-A05D-48CBEE5F4ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD04911F-4AC4-4B43-A05D-48CBEE5F4ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD04911F-4AC4-4B43-A05D-48CBEE5F4ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD04911F-4AC4-4B43-A05D-48CBEE5F4ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A686299-5DCF-4D9E-8B5C-D301D9D4B96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A686299-5DCF-4D9E-8B5C-D301D9D4B96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A686299-5DCF-4D9E-8B5C-D301D9D4B96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A686299-5DCF-4D9E-8B5C-D301D9D4B96C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

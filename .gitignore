@@ -1,0 +1,80 @@
+**/packages/*
+!**/packages/repositories.config
+
+# User-specific files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# ReSharper (YieldStar.sln.DotSettings is part of repository)
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.sln.DotSettings.user
+*.sln.DotSettings
+
+# ClearCase
+*.ccexclude
+
+# Build results
+**/[Dd]ebug/
+**/[Rr]elease/
+**/x64/
+**/build/
+**/[Bb]in/
+**/[Oo]bj/
+**/StyleCop.Cache
+
+# MSTest test Results
+**/[Tt]est[Rr]esult*/
+**/[Bb]uild[Ll]og.*
+
+# Intermediates
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.log
+*.scc
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.cachefile
+
+# C++ files
+*.o
+*.h.gch
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# GIT Merge
+*.orig
+
+#SQL Server Express files
+*.mdf
+*.ldf
